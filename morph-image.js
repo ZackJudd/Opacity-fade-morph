@@ -1,5 +1,5 @@
 // morph-image.js
-//  Enter on Github: 10/31/17 1:39 P.M.  (Happy Halloween!)
+//  Entered on Github: 10/31/17 1:39 P.M.  (Happy Halloween!)
 //    Zachary Judd
 //
 //    Place code below in appropriate directory and link to it in your html head with: <script type="text/javascript" src="morph-image.js" />
